@@ -1,3 +1,7 @@
+SEGUIMOS AVANZANDO EN NUESTRO PROYECTO MERN , HASTA AQUI LO AVANZADO EN LA CARPETA CLIENT 
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
